@@ -10,7 +10,7 @@
 <string name="next">下一个</string>
 <string name="okay">确定</string>
 <string name="slide1_heading">欢迎！</string>
-<string name="slide1_text">omWeather是一个用于检查您位置的当前天气和预报的应用。</string>
+<string name="slide1_text">精准天气是一个用于检查您位置的当前天气和预报的应用。</string>
 <string name="slide2_heading" translatable="false">Github</string>
 <string name="slide2_text">此应用的源代码可在GitHub上找到。欲了解更多，请查看“关于”页面。</string>
 <string name="card_details_heading">当前</string>
@@ -65,7 +65,7 @@
 <string name="settings_intervals">间隔</string>
 <string name="settings_update_interval">更新间隔</string>
 <string name="settings_interval_summary">设置自动更新的间隔</string>
-<string name="about_privacy_answer">omWeather仅使用“Internet”权限来检索天气数据。它不包含任何跟踪机制或广告。</string>
+<string name="about_privacy_answer">精准天气仅使用“Internet”权限来检索天气数据。它不包含任何跟踪机制或广告。</string>
 <string name="about_where_from">天气信息来自哪里？</string>
 <string name="about_where_from_answer">天气信息来自</string>
 <string name="about_permissions">权限</string>
